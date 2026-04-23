@@ -65,3 +65,11 @@ This project marked a massive shift in my mindset. I transitioned from just *ana
 
 ### 🎥 Video Demo
 Watch exactly how the Markov engine works
+
+https://github.com/user-attachments/assets/0378aafb-4787-46e5-837b-0fbad8afc1ac
+
+In the demo above, you can see the engine in action. To run a matchup, first select the Tour (ATP/WTA), then choose Player 1 and Player 2, and lock in the Court Surface and Age for each. Once you click Start Simulations, the engine crunches 10,000 Monte Carlo runs in the background. The results instantly populate below: the Prediction Box reveals the ultimate probabilistic winner, while the Set Score Probability breaks down the exact score-line odds. Finally, you can interact with the Player Stats card on the left—just flip it back and forth to compare the underlying historical metrics driving the simulation for both players!
+
+
+
+
